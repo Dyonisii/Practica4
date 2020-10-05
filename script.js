@@ -70,7 +70,7 @@ function get() {
         result = 'выберите операцию';
         }
 
-    document.getElementById("result").innerHTML = result;
+    document.getElementById("resultat").innerHTML = resultat;
   }
 
 
